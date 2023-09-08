@@ -1,0 +1,87 @@
+.card {
+  margin: 10px 0;
+  padding: 20px 10px;
+  background-color: var(--color-white);
+  border-radius: 10px;
+}
+
+.card-clicked {
+  background-color: var(--color-light-grayish-blue-1);
+}
+
+.flex-parent,
+.flex-child {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.flex-child {
+  padding: 0;
+}
+
+.flex-child > * {
+  padding: 0 10px;
+}
+
+.flex-child > img {
+  width: 70px;
+  height: 50px;
+}
+
+.profile-name {
+  font-weight: 800;
+  color: var(--color-very-dark-blue);
+}
+
+.flex-child > div > p {
+  margin: 0;
+}
+
+.notification-link {
+  text-decoration: none;
+  font-weight: 800;
+  color: var(--color-dark-grayish-blue);
+}
+
+.notification-link:hover,
+.profile-name:hover {
+  color: var(--color-blue);
+  cursor: pointer;
+}
+
+.red-circle {
+  display: inline-block;
+  background-color: var(--color-red);
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+.own-image {
+  justify-self: right;
+  width: 60px;
+}
+
+.notification-msg {
+  margin-left: 80px;
+  margin-right: 30px;
+  padding: 20px;
+  border: 1px solid var(--color-light-grayish-blue-2);
+  border-radius: 10px;
+}
+
+.notification-msg:hover {
+  background-color: var(--color-light-grayish-blue-2);
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 500px) {
+  .red-circle {
+    width: 8px;
+    height: 8px;
+    border-radius: 5px;
+    margin: 0 5px;
+  }
+}

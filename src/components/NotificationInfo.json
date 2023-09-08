@@ -1,0 +1,72 @@
+[
+  {
+    "profileName": "Mark Webber",
+    "profileImage": "./images/avatar-mark-webber.webp",
+    "notificationText": "reacted to your recent post",
+    "notificationLink": "My first tournament today!",
+    "picture": "",
+    "msg": "",
+    "read": false,
+    "time": "1m ago"
+  },
+  {
+    "profileName": "Angela Gray",
+    "profileImage": "./images/avatar-angela-gray.webp",
+    "notificationText": "followed you",
+    "notificationLink": "",
+    "picture": "",
+    "msg": "",
+    "read": false,
+    "time": "5m ago"
+  },
+  {
+    "profileName": "Jacob Thompson",
+    "profileImage": "./images/avatar-jacob-thompson.webp",
+    "notificationText": "has joined your group",
+    "notificationLink": "Chess Club",
+    "picture": "",
+    "msg": "",
+    "read": false,
+    "time": "1 day ago"
+  },
+  {
+    "profileName": "Rizky Hasanuddin",
+    "profileImage": "./images/avatar-rizky-hasanuddin.webp",
+    "notificationText": "sent you a private message",
+    "notificationLink": "",
+    "picture": "",
+    "msg": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+    "read": true,
+    "time": "5 days ago"
+  },
+  {
+    "profileName": "Kimberly Smith",
+    "profileImage": "./images/avatar-kimberly-smith.webp",
+    "notificationText": "commented on your picture",
+    "notificationLink": "",
+    "picture": "./images/image-chess.webp",
+    "msg": "",
+    "read": true,
+    "time": "1 week ago"
+  },
+  {
+    "profileName": "Nathan Peterson",
+    "profileImage": "./images/avatar-nathan-peterson.webp",
+    "notificationText": "reacted to your recent post",
+    "notificationLink": "5 end-game strategies to increase your win rate",
+    "picture": "",
+    "msg": "",
+    "read": true,
+    "time": "2 weeks ago"
+  },
+  {
+    "profileName": "Anna Kim",
+    "profileImage": "./images/avatar-anna-kim.webp",
+    "notificationText": "left the group",
+    "notificationLink": "Chess Club",
+    "picture": "",
+    "msg": "",
+    "read": true,
+    "time": "2 weeks ago"
+  }
+]
