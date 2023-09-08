@@ -11,7 +11,7 @@ function App() {
       return acc;
     }, 0)
   );
-
+  // state for the mark as all read link
   const [markAllAsRead, setMarkAllAsRead] = useState(false);
 
   //function to calculate the ReadCount based on read state of each notification
