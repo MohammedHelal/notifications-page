@@ -40,7 +40,7 @@ body {
   min-height: 96vh;
   display: flex;
   place-content: center;
-  padding: 50px;
+  padding: 25px;
 }
 
 .attribution {
